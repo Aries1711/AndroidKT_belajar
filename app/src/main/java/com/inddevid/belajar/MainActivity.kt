@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 //        val imageBg: ImageView = findViewById(R.id.bg_id)
-//
+//        Glide.with(this).load(R.drawable.belajar).into(imageBg);
         val rollButton: Button = findViewById(R.id.btn_roll)
         rollButton.setOnClickListener { rollDiced() }
     }
