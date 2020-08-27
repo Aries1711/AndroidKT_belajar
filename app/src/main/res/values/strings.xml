@@ -3,4 +3,6 @@
     <string name="greetingText">Selamat Arisqi,</string>
     <string name="signation">Dari, Arisqi</string>
     <string name="content">Gerbang Kreatifitas telah terbuka!!</string>
+    <string name="roller">Roll Number</string>
+    <string name="numberRoller"></string>
 </resources>
